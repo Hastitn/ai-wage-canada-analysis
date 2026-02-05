@@ -3,7 +3,7 @@
 ## Project Overview
 This project analyzes how artificial intelligence (AI) has reshaped wage growth and inequality in Canada, with a focus on occupational differences, gender disparities, and provincial variation.
 
-Using publicly available data from Statistics Canada, we evaluate whether AI-related occupations experience a wage premium, identify when this premium emerged, and assess which demographic and geographic groups benefit—or face barriers—in Canada’s evolving AI-driven labor market.
+Using publicly available data from Statistics Canada, we evaluate whether AI-related occupations experience a wage premium, identify when this premium emerged, and assess which demographic and geographic groups benefit or face barriers in Canada’s evolving AI-driven labor market.
 
 ## Research Questions
 - How have wages evolved for AI-related occupations compared to non-AI occupations between 2012 and 2024?
