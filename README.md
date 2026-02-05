@@ -36,10 +36,11 @@ Using publicly available data from Statistics Canada, we evaluate whether AI-rel
 
 ## Key Files
 - 📄 **Final Report (PDF)**  
-  [`report/Wages_Project.pdf`](report/Wages_Project.pdf)
+  [`report/AI_Wage_Equity_Canada_Report.pdf`](report/AI_Wage_Equity_Canada_Report.pdf)
 
 - 📊 **Rendered Analysis Notebook (HTML)**  
   [`outputs/AI_Wage_Notebook.html`](outputs/AI_Wage_Notebook.html)
+
 
 ## Skills & Tools Demonstrated
 - Data cleaning and preprocessing  
